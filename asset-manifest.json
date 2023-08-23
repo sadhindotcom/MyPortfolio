@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.6c940e3d.css",
+    "main.js": "/MyPortfolio/static/js/main.8a90de3f.js",
+    "static/js/787.24f95382.chunk.js": "/MyPortfolio/static/js/787.24f95382.chunk.js",
+    "static/media/dp.png": "/MyPortfolio/static/media/dp.126e745a45400ba63b88.png",
+    "static/media/skill-3.png": "/MyPortfolio/static/media/skill-3.b2c285307d5d25d3a668.png",
+    "static/media/skill-2.png": "/MyPortfolio/static/media/skill-2.19c8605d6b2861f5fbe0.png",
+    "static/media/SK_Babusona_Resume.pdf": "/MyPortfolio/static/media/SK_Babusona_Resume.9c0d37ccc4cdae4d8ecf.pdf",
+    "static/media/logo1.png": "/MyPortfolio/static/media/logo1.9d8ff3df96afc89083d9.png",
+    "static/media/logo.png": "/MyPortfolio/static/media/logo.b7dfe53c4884d7c509d5.png",
+    "static/media/skill-4.png": "/MyPortfolio/static/media/skill-4.8541b143aec91404e0e4.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.6c940e3d.css.map": "/MyPortfolio/static/css/main.6c940e3d.css.map",
+    "main.8a90de3f.js.map": "/MyPortfolio/static/js/main.8a90de3f.js.map",
+    "787.24f95382.chunk.js.map": "/MyPortfolio/static/js/787.24f95382.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c940e3d.css",
+    "static/js/main.8a90de3f.js"
+  ]
+}
